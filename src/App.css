@@ -41,8 +41,7 @@ body {
 .App {
   background-color: #827F86;
   margin-top: 80px;
-  width: 50%;
-  min-width: 500px;
+  width: 90vmin;
   /* border: 2px solid rgb(222, 65, 65); */
   box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
